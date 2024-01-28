@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       locale: controller.language,
       title: 'تحويل الرصيد',
-      initialBinding: MyBinding(),
+      // initialBinding: MyBinding(),
       theme: controller.apptheme,
      //getPages: routes,
     );
